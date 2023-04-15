@@ -16,8 +16,24 @@ Actualmente, estoy aprendiendo desarrollo web en línea y estoy trabajando en me
 ## Cómo contactarme
 Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: armandorios@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 😊
 
-| <div align="center"><img src="ruta/a/tu/imagen.png" alt="tu imagen" width="200"/></div> |
-| :---: |
-| <div style="text-align: left"> **Sobre mí** <br/> Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes. <br/><br/> **Aprendiendo** <br/> Actualmente, estoy aprendiendo desarrollo web en línea y estoy trabajando en mejorar mis habilidades en: <br/> - HTML <br/> - CSS <br/> - JavaScript <br/> - React <br/><br/> **Cómo contactarme** <br/> Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: armandorios@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 😊 </div> |
+<table>
+  <tr>
+    <td><img src="ruta/a/tu/imagen.png" alt="tu imagen" width="200"/></td>
+    <td>
+      <h3>Sobre mí</h3>
+      <p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.</p>
+      <h3>Aprendiendo</h3>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+      </ul>
+      <h3>Cómo contactarme</h3>
+      <p>Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: armandorios@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 😊</p>
+    </td>
+  </tr>
+</table>
+
 
 
