@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex-basis: 50%; max-width: 200px;">
-    <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 100%;">
+    <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 150px; height: 150px">
   </div>
   <div style="flex-grow: 1;">
     <h2>About me</h2>
