@@ -1,11 +1,2 @@
-| <img src="https://probot.media/AtP5iUW8Xg.png" alt="logo" width="400"/> | <h2></h2><h3>Sobre mí</h3><br><p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.</p><h3>Aprendiendo</h3><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li><h2></h2> |
-| ---------------| --------------- |
-| | |
-|-|-|
-| **Name:** | Armando Ríos |
-| **About Me:** | I'm a passionate web developer who loves learning new technologies and tools to improve my skills and create impressive projects. Currently, I work as a web developer in a software company and also work on personal projects to continue learning and challenging myself. |
-| **Learning:** | I'm always working on improving my skills and learning new technologies in web development. Currently, I'm focused on improving my skills in: |
-| | - HTML |
-| | - CSS |
-| | - JavaScript |
-| | - React |
+| <img src="inserta_tu_url_de_imagen_aqui" alt="Inserta un texto alternativo aquí" width="100"> | **Hola, soy Armando Ríos** 👋<br><br>Sobre mí<br>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes. Actualmente, trabajo como desarrollador web en una empresa de software y también trabajo en proyectos personales para seguir aprendiendo y desafiándome a mí mismo.<br><br>Aprendiendo<br>Siempre estoy trabajando en mejorar mis habilidades y aprender nuevas tecnologías en el desarrollo web. Actualmente, estoy enfocado en mejorar mis habilidades en:<br><br>- HTML<br>- CSS<br>- JavaScript<br>- React<br><br>Cómo contactarme<br>Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: armandorios@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! |
+| --- | --- |
