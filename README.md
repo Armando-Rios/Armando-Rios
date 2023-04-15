@@ -1,7 +1,9 @@
 # Saludos, Soy Armando Rios! 👋
 
-<div style="display: flex">
-  <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 150px; max-width: 150px;">
+<div style="display: flex; align-items: center;">
+  <div style="flex-basis: 50%; max-width: 200px;">
+    <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 100%;">
+  </div>
   <div style="flex-grow: 1;">
     <h2>About me</h2>
     <p>Soy un estudiante apasionado de desarrollo web que está aprendiendo y mejorando continuamente mis habilidades. Actualmente, me encuentro enfocado en aprender las siguientes tecnologías:</p>
