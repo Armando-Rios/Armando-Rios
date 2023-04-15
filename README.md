@@ -16,9 +16,8 @@
         <li>JavaScript</li>
         <li>React</li>
       </ul>
-       <h2></h2>
-     </td>
       <br>
+     </td>
     </td>
   </tr>
 </table>
