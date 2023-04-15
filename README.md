@@ -6,15 +6,15 @@
     <td>
       <h2>Sobre mí</h2>
       <p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.</p>
-      <h3>Aprendiendo</h3>
+      <h2>Aprendiendo</h2>
       <ul>
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
         <li>React</li>
       </ul>
-      <h3>Cómo contactarme</h3>
-      <p>Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: armandorios@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 😊</p>
+      <h2>Cómo contactarme</h2>
+      <p>Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: rios25866@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 😊</p>
     </td>
   </tr>
 </table>
