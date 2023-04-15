@@ -1,7 +1,8 @@
 # ¡Hola a todos! 👋 Soy Armando Rios.
 
-| <img src="https://probot.media/AtP5iUW8Xg.png" width=200> | ## Sobre mí
-Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes. |
+| <img src="https://probot.media/AtP5iUW8Xg.png" width=200> |   ## Sobre mí
+Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.   | 
+
 |--------|-------|
 
 ## Sobre mí
