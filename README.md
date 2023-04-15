@@ -1,6 +1,6 @@
 # ¡Hola a todos! 👋 Soy Armando Rios.
 
-| <img src="https://probot.media/AtP5iUW8Xg.png" width=200> |   <h2 style="padding: 10px;">About me</h2>   |
+| <img src="https://probot.media/AtP5iUW8Xg.png" width=200> |   <h2 style="padding:150px;">About me</h2>   |
 |--------|-------|
 
 ## Sobre mí
