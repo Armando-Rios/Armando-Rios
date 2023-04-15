@@ -11,9 +11,8 @@ I'm always working on improving my skills and learning new technologies in web d
 - JavaScript
 - React
 
-| ## Experience
-I have experience working on both team and individual projects. I have worked on website projects for small businesses and non-profit organizations. I have also collaborated on larger projects for technology companies. |  ## How to Contact Me
-If you'd like to talk to me about my work or anything else, you can contact me by email at rios25866@gmail.com or on Twitter at @armandorios. I'd love to hear from you!  |
+## Experience
+I have experience working on both team and individual projects. I have worked on website projects for small businesses and non-profit organizations. I have also collaborated on larger projects for technology companies.
 
 ## How to Contact Me
 If you'd like to talk to me about my work or anything else, you can contact me by email at rios25866@gmail.com or on Twitter at @armandorios. I'd love to hear from you!
