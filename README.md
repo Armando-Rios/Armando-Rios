@@ -17,6 +17,7 @@
         <li>React</li>
       </ul>
       <h2></h2>
+      <br>
     </td>
   </tr>
 </table>
