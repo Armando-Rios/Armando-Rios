@@ -1,4 +1,5 @@
 <table>
+  <h2></h2>
   <tr>
     <td><img src="https://probot.media/AtP5iUW8Xg.png" alt="logo" width="400"/></td>
     <td>
@@ -13,4 +14,5 @@
       </ul>
     </td>
   </tr>
+  <h2></h2>
 </table>
