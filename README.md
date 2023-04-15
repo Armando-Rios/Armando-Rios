@@ -1,22 +1,23 @@
-| ![Profile Image](https://github.com/armandorios1.png?size=200) | 
-|:--:| 
-| **Hola, soy Armando Ríos 👋** |
-
----
-
-#### Sobre mí
-
-Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes. Actualmente, trabajo como desarrollador web en una empresa de software y también trabajo en proyectos personales para seguir aprendiendo y desafiándome a mí mismo.
-
-#### Aprendiendo
-
-Siempre estoy trabajando en mejorar mis habilidades y aprender nuevas tecnologías en el desarrollo web. Actualmente, estoy enfocado en mejorar mis habilidades en:
-
-- HTML
-- CSS
-- JavaScript
-- React
-
-#### Cómo contactarme
-
-Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: rios25866@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 
+<table>
+  <tr>
+    <td>
+      <img src="https://miimagen.com" alt="Mi imagen">
+    </td>
+    <td>
+      <h2>Hola, soy Armando Ríos 👋</h2>
+      <h3>Sobre mí</h3>
+      <p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes. Actualmente, trabajo como desarrollador web en una empresa de software y también trabajo en proyectos personales para seguir aprendiendo y desafiándome a mí mismo.</p>
+    </td>
+    <td></td>
+    <td>
+      <h3>Aprendiendo</h3>
+      <p>Siempre estoy trabajando en mejorar mis habilidades y aprender nuevas tecnologías en el desarrollo web. Actualmente, estoy enfocado en mejorar mis habilidades en:</p>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+      </ul>
+    </td>
+  </tr>
+</table>
