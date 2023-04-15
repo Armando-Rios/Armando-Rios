@@ -1,30 +1,30 @@
-# Hola, soy Armando Ríos 👋
+# Hi, I'm Armando Ríos 👋
 
-## Sobre mí
-Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes. Actualmente, trabajo como desarrollador web en una empresa de software y también trabajo en proyectos personales para seguir aprendiendo y desafiándome a mí mismo.
+## About Me
+I'm a passionate web developer who loves learning new technologies and tools to improve my skills and create impressive projects. Currently, I work as a web developer at a software company and also work on personal projects to continue learning and challenging myself.
 
-## Aprendiendo
-Siempre estoy trabajando en mejorar mis habilidades y aprender nuevas tecnologías en el desarrollo web. Actualmente, estoy enfocado en mejorar mis habilidades en:
+## Learning
+I'm always working on improving my skills and learning new technologies in web development. Currently, I'm focused on improving my skills in:
 
 - HTML
 - CSS
 - JavaScript
 - React
 
-## Experiencia
-Tengo experiencia trabajando en proyectos tanto en equipo como de manera individual. He trabajado en proyectos de sitios web para pequeñas empresas y organizaciones sin fines de lucro. También he colaborado en proyectos más grandes para compañías de tecnología.
+## Experience
+I have experience working on both team and individual projects. I have worked on website projects for small businesses and non-profit organizations. I have also collaborated on larger projects for technology companies.
 
-## Cómo contactarme
-Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: rios25866@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti!
+## How to Contact Me
+If you'd like to talk to me about my work or anything else, you can contact me by email at rios25866@gmail.com or on Twitter at @armandorios. I'd love to hear from you!
 
-## Proyectos destacados
-Aquí hay algunos proyectos en los que he trabajado recientemente y de los que estoy muy orgulloso:
+## Featured Projects
+Here are some projects I've worked on recently that I'm really proud of:
 
-- [Proyecto 1](https://github.com/armandorios/proyecto1): un sitio web de comercio electrónico construido con React y Node.js.
-- [Proyecto 2](https://github.com/armandorios/proyecto2): un sitio web informativo construido con HTML, CSS y JavaScript.
-- [Proyecto 3](https://github.com/armandorios/proyecto3): una aplicación web de seguimiento de gastos construida con React y Firebase.
+- [Project 1](https://github.com/Armandor-Rios/project1): an e-commerce website built with React and Node.js.
+- [Project 2](https://github.com/Armandor-Rios/project1): an informational website built with HTML, CSS, and JavaScript.
+- [Project 3](https://github.com/Armandor-Rios/project1): an expense tracker web application built with React and Firebase.
 
-## Habilidades
+## Skills
 - HTML
 - CSS
 - JavaScript
@@ -33,12 +33,8 @@ Aquí hay algunos proyectos en los que he trabajado recientemente y de los que e
 - Firebase
 - Git
 
-## Certificaciones
-- Certificación en Desarrollo Web de Coursera
-- Certificación en React de Udemy
+## Certifications
+- Coursera Web Development Certification
+- Udemy React Certification
 
-¡Gracias por leer mi README! Siéntete libre de contactarme si tienes alguna pregunta o si estás interesado en colaborar en un proyecto.
-
-
-
-
+Thanks for reading my README! Feel free to reach out if you have any questions or if you're interested in collaborating on a project.
