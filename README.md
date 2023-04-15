@@ -1,26 +1,13 @@
-### H, I'm Armando 👋
-<div style="display:flex">
-  <img src="https://probot.media/AtP5iUW8Xg.png" width="150rem" height="150rem">
-  <div style="display:inline-block">
-    <h1>About me..</h1>
-    <h2>I am learning web development</h2>
-  </div>
-   <div style="display:inline-block">
-    <h1>About me..</h1>
-    <h2>I am learning web development</h2>
-  </div>
-</div>
-<!--
-**Armando-Rios/Armando-Rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Saludos, Soy Armando Rios! 👋
 
-Here are some ideas to get you started:
+<img src="URL_DE_LA_IMAGEN" alt="Imagen de Armando Rios">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Acerca de mí
+Soy un estudiante apasionado de desarrollo web que está aprendiendo y mejorando continuamente mis habilidades. Actualmente, me encuentro enfocado en aprender las siguientes tecnologías:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+Estoy emocionado de seguir aprendiendo y explorando nuevas tecnologías. Siéntete libre de echar un vistazo a mis proyectos y ponerse en contacto conmigo si tienes alguna pregunta o sugerencia. ¡Gracias por visitar mi perfil! 
