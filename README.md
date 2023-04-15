@@ -18,7 +18,7 @@ Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarm
 
 <table>
   <tr>
-    <td><img src="ruta/a/tu/imagen.png" alt="tu imagen" width="200"/></td>
+    <td><img src="https://probot.media/AtP5iUW8Xg.png" alt="tu imagen" width="200"/></td>
     <td>
       <h3>Sobre mí</h3>
       <p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.</p>
