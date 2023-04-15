@@ -1,6 +1,6 @@
-# ¡Hola a todos! 👋 Soy Armando Rios. <img src="https://cdn.discordapp.com/icons/813385646025474068/1a0e771c1e75b0b86062e79af4c2e5f1.jpg" width=30>
+# ¡Hola a todos! 👋 Soy Armando Rios. <img src="https://cdn.discordapp.com/icons/813385646025474068/1a0e771c1e75b0b86062e79af4c2e5f1.jpg" width=40>
 
-<img src="https://probot.media/AtP5iUW8Xg.png" width=150>
+<img src="https://probot.media/AtP5iUW8Xg.png" width=200>
 
 ## Sobre mí
 Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.
