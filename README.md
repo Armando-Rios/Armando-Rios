@@ -33,8 +33,4 @@ Here are some projects I've worked on recently that I'm really proud of:
 - Firebase
 - Git
 
-## Certifications
-- Coursera Web Development Certification
-- Udemy React Certification
-
 Thanks for reading my README! Feel free to reach out if you have any questions or if you're interested in collaborating on a project.
