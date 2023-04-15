@@ -1,18 +1,1 @@
-<table>
-  <tr>
-     <h1> dawdawd</h1>
-    <td><img src="https://probot.media/AtP5iUW8Xg.png" alt="logo" width="400"/></td>
-    <td>
-      <h3>Sobre mí</h3>
-      <p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.</p>
-      <h3>Aprendiendo</h3>
-      <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>React</li>
-      </ul>
-    </td>
-    <h1> </h1>
-  </tr>
-</table>
+| <h2></h2><img src="https://probot.media/AtP5iUW8Xg.png" alt="logo" width="400"/> | <h3>Sobre mí</h3><br><p>Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.</p><h3>Aprendiendo</h3><ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul><h2></h2> |
