@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋 Soy Armando Rios. <img src="https://cdn.discordapp.com/icons/813385646025474068/1a0e771c1e75b0b86062e79af4c2e5f1.jpg" width=20>
+# ¡Hola a todos! 👋 Soy Armando Rios. <img src="https://cdn.discordapp.com/icons/813385646025474068/1a0e771c1e75b0b86062e79af4c2e5f1.jpg" width=30>
 
 <img src="https://probot.media/AtP5iUW8Xg.png" width=150>
 
