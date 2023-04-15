@@ -1,4 +1,17 @@
-# ¡Hola, soy Armando Rios! 👋
+# ¡Hola a todos! 👋 Soy Armando Rios.
 
-| ![Imagen de Armando Rios](URL_DE_LA_IMAGEN) | **About me** <br> Soy un estudiante apasionado de desarrollo web que está aprendiendo y mejorando continuamente mis habilidades. Actualmente, me encuentro enfocado en aprender las siguientes tecnologías: <br> <ul><li>HTML</li><li>CSS</li><li>JavaScript</li><li>React</li></ul> ¡Estoy emocionado de seguir aprendiendo y explorando nuevas tecnologías! Siéntete libre de echar un vistazo a mis proyectos y ponerse en contacto conmigo si tienes alguna pregunta o sugerencia. ¡Gracias por visitar mi perfil! |
-| :---: | :--- |
+![Foto de Armando Rios](URL_DE_LA_IMAGEN)
+
+## Sobre mí
+Soy un apasionado por el desarrollo web. Me encanta aprender nuevas tecnologías y herramientas para mejorar mis habilidades y crear proyectos impresionantes.
+
+## Aprendiendo
+Actualmente, estoy aprendiendo desarrollo web en línea y estoy trabajando en mejorar mis habilidades en:
+
+- HTML
+- CSS
+- JavaScript
+- React
+
+## Cómo contactarme
+Si desea hablar conmigo sobre mi trabajo o cualquier otra cosa, puede contactarme por correo electrónico: armandorios@gmail.com o por Twitter: @armandorios. ¡Me encantaría saber de ti! 😊
