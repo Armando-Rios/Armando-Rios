@@ -1,5 +1,5 @@
 ### H, I'm Armando 👋
-<img src="https://probot.media/AtP5iUW8Xg.png" width="10rem" height="10rem">
+<img src="https://probot.media/AtP5iUW8Xg.png" width="150rem" height="150rem">
 <!--
 **Armando-Rios/Armando-Rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
