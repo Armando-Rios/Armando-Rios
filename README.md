@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://miimagen.com" alt="Mi imagen">
+      <img src="https://probot.media/AtP5iUW8Xg.png" alt="Mi imagen">
     </td>
     <td>
       <h2>Hola, soy Armando Ríos 👋</h2>
