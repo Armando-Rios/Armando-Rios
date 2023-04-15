@@ -1,6 +1,6 @@
 # Saludos, Soy Armando Rios! 👋
 
-<div style="display: flex">
+<div style="display: grow: 1;">
   <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 150px; max-width: 150px;">
   <div style="flex-grow: 1;">
     <h2>About me</h2>
