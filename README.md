@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://probot.media/AtP5iUW8Xg.png" alt="Mi imagen" width=700>
+      <img src="https://probot.media/AtP5iUW8Xg.png" alt="Mi imagen" width=500>
     </td>
     <td>
       <h3>Sobre mí</h3>
