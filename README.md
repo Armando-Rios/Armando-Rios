@@ -1,6 +1,6 @@
 <table>
-  <h2></h2>
   <tr>
+     <h2></h2>
     <td><img src="https://probot.media/AtP5iUW8Xg.png" alt="logo" width="400"/></td>
     <td>
       <h3>Sobre mí</h3>
@@ -13,6 +13,6 @@
         <li>React</li>
       </ul>
     </td>
+    <h2></h2>
   </tr>
-  <h2></h2>
 </table>
