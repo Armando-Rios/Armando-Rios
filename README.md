@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row; align-items: center;">
   <div style="max-width: 50%; max-height: 300px;">
-    <img src="URL_DE_LA_IMAGEN" alt="Imagen de Armando Rios" style="width: 100%; height: 100%;">
+    <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 100%; height: 100%;">
   </div>
   <div style="flex-grow: 1; padding-left: 20px;">
     <h2>About me</h2>
