@@ -2,9 +2,9 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex-basis: 50%; max-width: 200px;">
-    <img src="https://probot.media/AtP5iUW8Xg.png" alt="Imagen de Armando Rios" style="width: 150px; height: 150px">
+    <img src="URL_DE_LA_IMAGEN" alt="Imagen de Armando Rios" style="width: 100%;">
   </div>
-  <div style="flex-grow: 1;">
+  <div style="flex-grow: 1; padding-left: 20px;">
     <h2>About me</h2>
     <p>Soy un estudiante apasionado de desarrollo web que está aprendiendo y mejorando continuamente mis habilidades. Actualmente, me encuentro enfocado en aprender las siguientes tecnologías:</p>
     <ul>
