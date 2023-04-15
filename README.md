@@ -1,4 +1,4 @@
-# ¡Hola a todos! 👋 Soy Armando Rios. <img src="https://probot.media/V6mluVLDaA.png" width=40>
+# ¡Hola a todos! 👋 Soy Armando Rios. <img src="https://probot.media/V6mluVLDaA.png" width=25>
 
 <img src="d" width=200>
 
