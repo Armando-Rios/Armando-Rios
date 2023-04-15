@@ -1,7 +1,11 @@
 ### H, I'm Armando 👋
 <div style="display:flex">
   <img src="https://probot.media/AtP5iUW8Xg.png" width="150rem" height="150rem">
-  <div style="display:block">
+  <div style="display:inline-block">
+    <h1>About me..</h1>
+    <h2>I am learning web development</h2>
+  </div>
+   <div style="display:inline-block">
     <h1>About me..</h1>
     <h2>I am learning web development</h2>
   </div>
