@@ -1,1 +1,1 @@
-# Saludos, Soy Armando Rios! 👋 <img scr="https://probot.media/AtP5iUW8Xg.png" width="50">
+# Saludos, Soy Armando Rios! 👋 <img src="https://probot.media/AtP5iUW8Xg.png" width="50">
